@@ -1,0 +1,9 @@
+config.py
+checkpoints/
+models/
+samples/
+.ipynb_checkpoints/
+__pycache__
+*.csv
+*.txt
+*.pyc
